@@ -3,7 +3,7 @@
 cd $BASEDIR
 
 ln -s ${PWD}/bashrc ~/.bashrc
-
+ln -s ${PWD}/vimrc ~/.vim/vimrc
 
 # check aliases 
 if [ -f ~/.aliases ]; then
